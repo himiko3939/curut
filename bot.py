@@ -967,7 +967,7 @@ def main():
             print(Fore.LIGHTRED_EX + f"Error with status code: {response.status_code}")
             token = None  # Set token ke None jika terjadi error lain
         time.sleep(1)
-d
+
 def print_welcome_message():
     print(r"""
  ██╗  ██╗██╗███╗   ███╗██╗██╗  ██╗ █████╗ 
